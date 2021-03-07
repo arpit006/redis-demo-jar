@@ -1,7 +1,5 @@
 package com.redis.jardemo.config;
 
-import com.redis.caching.service.RedisDynamicService;
-import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
 
 /**
